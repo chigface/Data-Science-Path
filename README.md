@@ -13,7 +13,7 @@
 - Statistics Intermediate: Average and Variability <a href="https://app.dataquest.io/view_cert/IVVOIDTB30TPSH6RKU20/">Certificate<a/>
 - Probability: Fundamentals <a href="https://app.dataquest.io/view_cert/YEWK5H78U1O4VTQEU7ID/">Certificate<a/>
 - Conditional Probability <a href="https://app.dataquest.io/view_cert/0G0PSYBSNVLMYH2QPTYI/">Certificate<a/>
-- Hypothesis Testing: Fundamentals <a href="">Certificate<a/>
+- Hypothesis Testing: Fundamentals <a href="https://app.dataquest.io/view_cert/D5UBWXX7YBA6N40NWXW9/">Certificate<a/>
 - Machine Learning: Fundamentals <a href="https://app.dataquest.io/view_cert/GH672CC3DTSYEA11YWLF/">Certificate<a/>
 - Linear Algebra for Machine Learning <a href="https://app.dataquest.io/view_cert/F7FZJOAO2BGYSSXIDJ8O/">Certificate<a/>
 - Calculus for Machine Learning <a href="https://app.dataquest.io/view_cert/1CHX8UTAS45KPWRJWNXV/">Certificate<a/>

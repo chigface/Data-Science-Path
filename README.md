@@ -1,6 +1,6 @@
 # Data-Science-Path
 
-<b>Data Science path completed from Daquest:<b/>
+<b>Data Science path completed from Dataquest:<b/>
 - Python Basics for Data Analysis <a href="https://app.dataquest.io/view_cert/JEWNHM1Q3ASY2LD5F1YE/">Certificate<a/>
 - Python for Data Science: Fundamentals <a href="https://app.dataquest.io/view_cert/FRWHOB223BB7C5ZT8SKU/">Certificate<a/>
 - Python for Data Science: Intermidiate <a href="https://app.dataquest.io/view_cert/PDLXHM0AFN6D5XJ0SN7X/">Certificate<a/>
